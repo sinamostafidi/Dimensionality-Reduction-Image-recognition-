@@ -1,1 +1,1 @@
-"# Dimensionality-Reduction-Image-recognition-" 
+# Dimensionality Reduction Image recognition 
